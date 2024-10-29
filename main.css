@@ -1,0 +1,17 @@
+.header {
+    background-color: #926FF6;
+}
+
+.nav-link {
+    color: white !important;
+    font-size: 12px;
+    font-family: "Poppins";
+    font-weight: 400;
+}
+
+.navbar-brand {
+    font-size: 18px;
+    font-family: "Poppins";
+    font-weight: 800;
+    color: white !important;
+}
