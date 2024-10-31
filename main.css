@@ -116,14 +116,35 @@ font-weight: 300;
 
 
 
+.div8{
+    color:  #FFAE00;
+    
+}
+
+.div9{
+    color: #4F4F4F;
+    
+}
 
 
+.image-grid img{
+height: 400px;
+width: 100%;
+}
+.tabs button:hover{
+    background-color:  #F3849F !important;
+    
+}
 
+.tabs button{
+    font-size: 11px;
+    font-family:"poppins" ;
+    font-weight: 400;
+}
 
-
-
-
-
+.tabs button.active{
+    background-color:  #F3849F !important;
+}
 
 
 
