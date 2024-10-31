@@ -38,6 +38,99 @@ font-weight: 800;
 }
 
 
+.sh2{
+    color: #4F4F4F;
+    font-weight: 300;
+    font-size:16px;
+    font-family: "poppins";
+    
+}
+
+.sh1{
+    color: #FFAE00;
+    font-weight:700;
+    font-family: "poppins";
+    font-size: 12px;
+}
+
+.sh3{
+    color: #4F4F4F;
+font-weight: 500;
+font-size:24px;
+font-family: "poppins";
+}
+.div1{
+    width: 55px;
+    height: 55px;
+}
+
+.s3 .row{
+    background-color: #FFFFFF !important;
+}
+
+
+body{
+    background-color: #F2F2F2 !important;
+}
+
+.div2{
+    color:  #4F4F4F;
+    font-size:16px ;
+    font-family: "poppins";
+    font-weight:500 ;
+}
+
+.div3{
+    color:  #4F4F4F;
+    font-size:12px ;
+    font-family:"poppins";
+    font-weight:300 ;
+}
+.div4{
+    color: black;
+    font-size:16px ;
+font-family: "poppins";
+font-weight:500 ;
+}
+
+.div5{
+    color: #4F4F4F;
+    font-size:  12px; ;
+font-family:"poppins" ;
+font-weight:300 ;
+}
+
+.div6{
+    color: black;
+    font-size:16px ;
+font-family: "poppins";
+font-weight: 500;
+}
+
+.div7{
+    color: #4F4F4F;
+    font-size:12px ;
+font-family: "poppins";
+font-weight: 300;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
