@@ -133,18 +133,82 @@ width: 100%;
 }
 .tabs button:hover{
     background-color:  #F3849F !important;
-    
+    color: white;
+    border-radius: 30px;
 }
 
 .tabs button{
+    padding: 5px 10px;
+    color: #828282;
     font-size: 11px;
     font-family:"poppins" ;
     font-weight: 400;
 }
 
 .tabs button.active{
+    color: #ffffff;
     background-color:  #F3849F !important;
+    border-radius: 30px;
 }
+
+.div11{
+    color: #4F4F4F;
+    font-size: 24px;
+    font-family: "poppins";
+    font-weight: 500;
+}
+
+.div12{
+    font-size: 12px;
+    font-family: "poppins";
+    font-weight: 700;
+    color: #FFAE00;
+}
+
+.div13{
+    background: #F7EEFF;
+}
+
+.div14{
+    border-radius: 30%;
+    color: white;
+}
+
+
+.div15{
+    color:  #F3849F;
+font-size: 10px;
+font-family: "poppins";
+font-weight: 700;
+}
+
+.div16{
+    color: #926FF6;
+    font-size: 10px;
+font-family: "poppins";
+font-weight: 700;
+}
+
+.div17{
+    color: #79CFFF;
+    font-size: 10px;
+font-family: "poppins";
+font-weight: 700;
+}
+
+.div18{
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
 
 
 
